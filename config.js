@@ -5,13 +5,13 @@
 // RECODE BY ZIFABOTZ
 
 //=============『 Utama 』================== //
-global.owner = ['6282127081926'] //ganti pakai nomormu biar bot berfungsi
-global.mods = ['6282127081926'] //ganti pakai nomormu biar bot berfungsi
-global.prems = ['6282127081926'] //ganti pakai nomormu biar bot berfungsi
+global.owner = ['62881010244718'] //ganti pakai nomormu biar bot berfungsi
+global.mods = ['62881010244718'] //ganti pakai nomormu biar bot berfungsi
+global.prems = ['62881010244718'] //ganti pakai nomormu biar bot berfungsi
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Ikmal'
-global.numberowner = '6282127081926' //ganti pakai nomor mu
+global.nameowner = 'Bagas'
+global.numberowner = '62881010244718' //ganti pakai nomor mu
 global.instagram = 'https://instagram.com/dinsa6005' //ganti pakai Instagram mu
 global.github = 'https://github.com/IkmalMtp2' //ganti aja pakai githubmu
 global.tt = '"tiktok.com/@ikmalgemink"' //ganti aja pakai tiktok mu
@@ -19,12 +19,12 @@ global.sc = 'https://youtu.be/lMcwJMp_0r' //jngn ganti hargai creator
 global.ss = 'https://youtu.be/3m7tRD4Rkl' //jngn ganti hargai creator
 global.sss = 'https://youtu.be/PzUH1ApMCi' //jngn ganti hargai creator
 global.yt = 'https://youtube.com/channel/UCk2nwucP_xvVekaokk0QnWg'
-global.dana = '082127081926' //ganti pakai nomor dana mu
-global.pulsa = '085717589375' //ganti pakai nomor pulsa mu
-global.gopay = '082127081926' //ganti pakai nomor Gopay mu
+global.dana = '0881010244718' //ganti pakai nomor dana mu
+global.pulsa = '0881010244718' //ganti pakai nomor pulsa mu
+global.gopay = '0881010244718' //ganti pakai nomor Gopay mu
 
 //=============『 Info Bot 』=================//
-global.namebot = '❋ཻུ۪۪⸙FrezeXBOT⳹ ❋ཻུ۪۪' //ganti jadiin nama bot mu
+global.namebot = '❋ཻུ۪۪⸙BagasBot⳹ ❋ཻུ۪۪' //ganti jadiin nama bot mu
 global.gc = 'https://chat.whatsapp.com/ILzsPmlSaGrHAKfMaCexlw' //ganti pakai grup mu
 global.web = 'https://youtube.com/channel/UCk2nwucP_xvVekaokk0QnWg' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = '"https://instagram.com/dinsa6005"' //ganti pakai Instagram mu
