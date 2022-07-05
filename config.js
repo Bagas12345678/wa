@@ -29,7 +29,7 @@ global.gc = 'https://chat.whatsapp.com/ILzsPmlSaGrHAKfMaCexlw' //ganti pakai gru
 global.web = 'https://youtube.com/channel/UCk2nwucP_xvVekaokk0QnWg' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = '"https://instagram.com/dinsa6005"' //ganti pakai Instagram mu
 global.saweria = '"https//saweria.com/IkmalMtp2"' //bebas ganti aja pakai apa
-global.nomer = 'https://wa.me/6282127081926' //ganti jadi nomor mu
+global.nomer = 'https://wa.me/62881010244718' //ganti jadi nomor mu
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》1 minggu Rp 2.000\n 1GRUP\n》1 Bulan Rp 6.000\n 1 GRUP\n》PERMANEN Rp 15.000\n1 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
