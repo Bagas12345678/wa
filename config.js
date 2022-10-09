@@ -5,13 +5,13 @@
 // RECODE BY ZIFABOTZ
 
 //=============『 Utama 』================== //
-global.owner = ['6285892778812'] //ganti pakai nomormu biar bot berfungsi
-global.mods = ['6285892778812'] //ganti pakai nomormu biar bot berfungsi
-global.prems = ['6285892778812'] //ganti pakai nomormu biar bot berfungsi
+global.owner = ['18656664755'] //ganti pakai nomormu biar bot berfungsi
+global.mods = ['18656664755'] //ganti pakai nomormu biar bot berfungsi
+global.prems = ['18656664755'] //ganti pakai nomormu biar bot berfungsi
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'Bagas'
-global.numberowner = '6285892778812' //ganti pakai nomor mu
+global.numberowner = '18656664755' //ganti pakai nomor mu
 global.instagram = 'https://instagram.com' //ganti pakai Instagram mu
 global.github = 'https://github.com' //ganti aja pakai githubmu
 global.tt = '"tiktok.com/@bagasmaker"' //ganti aja pakai tiktok mu
@@ -29,7 +29,7 @@ global.gc = 'https://chat.whatsapp.com/ILzsPmlSaGrHAKfMaCexlw' //ganti pakai gru
 global.web = 'https://youtube.com/channel/UCk2nwucP_xvVekaokk0QnWg' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = '"https://instagram.com"' //ganti pakai Instagram mu
 global.saweria = '"https//saweria.com"' //bebas ganti aja pakai apa
-global.nomer = 'https://wa.me/6285892778812' //ganti jadi nomor mu
+global.nomer = 'https://wa.me/085892778812' //ganti jadi nomor mu
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》1 minggu Rp 2.000\n 1GRUP\n》1 Bulan Rp 6.000\n 1 GRUP\n》PERMANEN Rp 15.000\n1 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
