@@ -5,31 +5,31 @@
 // RECODE BY ZIFABOTZ
 
 //=============『 Utama 』================== //
-global.owner = ['62881010244718'] //ganti pakai nomormu biar bot berfungsi
-global.mods = ['62881010244718'] //ganti pakai nomormu biar bot berfungsi
-global.prems = ['62881010244718'] //ganti pakai nomormu biar bot berfungsi
+global.owner = ['6285892778812'] //ganti pakai nomormu biar bot berfungsi
+global.mods = ['6285892778812'] //ganti pakai nomormu biar bot berfungsi
+global.prems = ['6285892778812'] //ganti pakai nomormu biar bot berfungsi
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'Bagas'
-global.numberowner = '62881010244718' //ganti pakai nomor mu
-global.instagram = 'https://instagram.com/dinsa6005' //ganti pakai Instagram mu
-global.github = 'https://github.com/IkmalMtp2' //ganti aja pakai githubmu
-global.tt = '"tiktok.com/@ikmalgemink"' //ganti aja pakai tiktok mu
+global.numberowner = '6285892778812' //ganti pakai nomor mu
+global.instagram = 'https://instagram.com' //ganti pakai Instagram mu
+global.github = 'https://github.com' //ganti aja pakai githubmu
+global.tt = '"tiktok.com/@bagasmaker"' //ganti aja pakai tiktok mu
 global.sc = 'https://youtu.be/lMcwJMp_0r' //jngn ganti hargai creator
 global.ss = 'https://youtu.be/3m7tRD4Rkl' //jngn ganti hargai creator
 global.sss = 'https://youtu.be/PzUH1ApMCi' //jngn ganti hargai creator
 global.yt = 'https://youtube.com/channel/UCk2nwucP_xvVekaokk0QnWg'
-global.dana = '0881010244718' //ganti pakai nomor dana mu
-global.pulsa = '0881010244718' //ganti pakai nomor pulsa mu
-global.gopay = '0881010244718' //ganti pakai nomor Gopay mu
+global.dana =  '085892778812' //ganti pakai nomor dana mu
+global.pulsa = '085892778812' //ganti pakai nomor pulsa mu
+global.gopay = '085892778812' //ganti pakai nomor Gopay mu
 
 //=============『 Info Bot 』=================//
 global.namebot = '❋ཻུ۪۪⸙BagasBot⳹ ❋ཻུ۪۪' //ganti jadiin nama bot mu
 global.gc = 'https://chat.whatsapp.com/ILzsPmlSaGrHAKfMaCexlw' //ganti pakai grup mu
 global.web = 'https://youtube.com/channel/UCk2nwucP_xvVekaokk0QnWg' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.webm = '"https://instagram.com/dinsa6005"' //ganti pakai Instagram mu
-global.saweria = '"https//saweria.com/IkmalMtp2"' //bebas ganti aja pakai apa
-global.nomer = 'https://wa.me/62881010244718' //ganti jadi nomor mu
+global.webm = '"https://instagram.com"' //ganti pakai Instagram mu
+global.saweria = '"https//saweria.com"' //bebas ganti aja pakai apa
+global.nomer = 'https://wa.me/6285892778812' //ganti jadi nomor mu
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》1 minggu Rp 2.000\n 1GRUP\n》1 Bulan Rp 6.000\n 1 GRUP\n》PERMANEN Rp 15.000\n1 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
